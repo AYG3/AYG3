@@ -17,7 +17,7 @@
 
 <p align="center"> 
   <a href="https://github.com/AYG3?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iKiks?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AYG3?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
   <a href="https://github.com/AYG3?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AYG3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
@@ -26,10 +26,9 @@
 
 ## 🌐 Socials: 
 <div align="center">
-  <a href="[[https://www.linkedin.com/in/peaceedgetech](https://www.linkedin.com/in/okikiolanrewaju/)]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/iKIKS_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://github.com/iKiks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/i_kiiks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gilbert-ayoku-2b625a25b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/AYG3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/ayoku_g3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ## 💻 Tech Stack:
@@ -38,25 +37,24 @@
 ## 📊 GitHub Stats:
 <img src="assets/light.gif">
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iKiks&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AYG3&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
   <br>
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iKiks&theme=monokai&hide_border=false">
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKiks&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 # 👨‍💻LOC:
 <img src="assets/light.gif">
 <div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/iKiks/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AYG3/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
 
 # 📈 Productivity Stats:
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iKiks&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYG3&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
 
@@ -64,14 +62,11 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iKiks&theme=discord&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=AYG3&theme=discord&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 <br>
 
-[![Okiki's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iKiks&theme=react-dark)](https://github.com/iKiks/github-readme-activity-graph)
+[![Okiki's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AYG3&theme=react-dark)](https://github.com/AYG3/github-readme-activity-graph)
 
 <img src="assets/light.gif"> 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
