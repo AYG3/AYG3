@@ -3,16 +3,15 @@
 </div>
 
 <h3 align="center">
-  Welcome to Okiki's profile!
+  Welcome to AYG3's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 👋 Hi, I’m Olanrewaju Okiki... ( aka iKiks )
+- 👋 Hi, I’m Ayoku Gilbert... ( aka AYG3 )
 - 👀 I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 - 🌱 I’m currently learning new tech stacks and working over my skills.
 - 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python and PHP or any basic Software Development Project.
-- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at https://www.linkedin.com/in/okikiolanrewaju/
-- 😁 Fun Fact: ```Did you know that the first computer mouse was made of wood?```
+- 📫 You can reach out to me at gilbertayoku3@gmail.com or drop a message at https://www.linkedin.com/in/gilbert-ayoku-2b625a25b/
 
 <img src="assets/light.gif">
 
