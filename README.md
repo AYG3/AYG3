@@ -45,11 +45,6 @@
   <br>
 </div>
 
-# 👨‍💻LOC:
-<img src="assets/light.gif">
-<div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/AYG3/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</div>
 
 # 📈 Productivity Stats:
 <table align="center">
