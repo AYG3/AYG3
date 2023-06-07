@@ -16,13 +16,13 @@
 <img src="assets/light.gif">
 
 <p align="center"> 
-  <a href="https://github.com/iKiks?tab=repositories&sort=stargazers">
+  <a href="https://github.com/AYG3?tab=repositories">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iKiks?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
-  <a href="https://github.com/iKiks?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/iKiks?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/AYG3?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AYG3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <!-- Profile Views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iKiks&style=for-the-badge&color=0a2647"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AYG3&style=for-the-badge&color=0a2647"> </p>
 
 ## 🌐 Socials: 
 <div align="center">
