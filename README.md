@@ -62,6 +62,6 @@
 
 <br>
 
-[![Okiki's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AYG3&theme=react-dark)](https://github.com/AYG3/github-readme-activity-graph)
+[![AYG3's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AYG3&theme=react-dark)](https://github.com/AYG3/github-readme-activity-graph)
 
 <img src="assets/light.gif"> 
