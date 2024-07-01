@@ -60,8 +60,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AYG3&theme=discord&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-<br>
+<be>
 
-[[AYG3's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AYG3&theme=react-dark)](https://github.com/AYG3/github-readme-activity-graph)
+[![AYG3's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AYG3&theme=react-dark)](https://github.com/AYG3/github-readme-activity-graph)
 
 <img src="assets/light.gif"> 
